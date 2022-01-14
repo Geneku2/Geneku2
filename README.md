@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 🧠 My brain is very small and I don't know alot of things that I should know
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geneku2)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geneku2)](https://github.com/anuraghazra/github-readme-stats)--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geneku2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
