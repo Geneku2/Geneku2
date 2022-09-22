@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geneku2
-- 🔭 I’m currently working on a dumb nerd shit
+- 🔭 I’m currently working on a data scrapping and representation
 - 👀 I’m interested in extended reality and human machine interaction
 - 🌱 I’m currently learning Ubuntu
 <!--- - 💞️ I’m looking to collaborate on ...
