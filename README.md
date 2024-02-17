@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hao Qi
-- - 🔭 I’m currently working on a data scrapping and representation
-- 👀 I’m interested in extended reality and human machine interaction
-- 🌱 I’m currently learning Ubuntu
+- - 🔭 I’m interested in ML and NLP, especially using computer science as a means of improving human machine interaction.
+- 👀 I’m working on scraping together corpus data from Youtube so I can fight the concept of time.
+- 🌱 Right now, I'm going through a phase of installing Linux on the worst computing devices known to man to see what the limits of old technology are.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 🧠 My brain is very small and I don't know alot of things that I should know
 
